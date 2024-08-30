@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 one updated 
 double times
+=======
+one updated double time in main
+>>>>>>> main
